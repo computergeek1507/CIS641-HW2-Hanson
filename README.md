@@ -13,4 +13,4 @@ I develop software for equipment used in our electrical manufacturing facility. 
 I have have contributed to the [openHAB](https://www.openhab.org/) and [xLights](http://xlights.org/) open source projects for over 5 years.
 
 
-![Dancing Banana](https://github.com/computergeek1507/CIS641-HW2-Hanson/raw/master/banana-dance.gif)
+![Dancing Banana](https://github.com/computergeek1507/CIS641-HW2-Hanson/raw/main/banana-dance.gif)
